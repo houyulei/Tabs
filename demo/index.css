@@ -1,0 +1,86 @@
+* {
+    outline: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    user-select: none;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+input, button, select, textarea {
+    -webkit-appearance: none;
+}
+
+input, textarea {
+    user-select: text;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+img {
+    border: 0;
+}
+
+address, caption, cite, code, dfn, em, strong, th, var {
+    font-style: normal;
+    font-weight: normal;
+}
+
+ol, ul {
+    list-style:none;
+}
+
+caption, th {
+    text-align: left;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+    font-weight: normal;
+}
+
+body {
+    /*font-size: 16px;*/
+}
+
+b {
+    font-weight: normal;
+}
+
+em {
+    font-style: normal;
+}
+
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+
+.myTabs {
+    margin: 0 auto;
+}
+
+.myTabs .myItem {
+    font-weight: bold;
+    color: #14ADE5;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px;
+    padding: 100px 10px;
+    box-shadow: 0 1px #EBEBEB;
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #E5E5E5 #D3D3D3 #B9C1C6;
+}

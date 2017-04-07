@@ -1,6 +1,6 @@
 {
   "name": "silk-tabs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
@@ -12,8 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "classnames": "^2.2.5",
-    "silk-react-swipe": "^1.0.0",
-    "silk-swipe": "^2.0.2"
+    "silk-react-swipe": "^1.0.0"
   },
   "devDependencies": {
     "autoprefixer-loader": "^3.2.0",

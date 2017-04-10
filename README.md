@@ -87,14 +87,14 @@ const TabsExample = () => (
 Props
 
 | Property             | Description           | Type       | Default       |
-|---------------- |----------------|----------|----------|--------------
+|---------------- |----------------|----------|----------|
 | className         |   className of container   | String |   |
 | defaultIndex         |   default index position of tabs   | Number | 0  |
 | onChange         |   runs at tab change   | Function |   |
-| transitionEnd         |   runs at the end slide transition   | Function |   |   |
+| transitionEnd         |   runs at the end slide transition   | Function |   |
 | tabs         |   contents of tabs   | Array[React.node] |   |
 | containerStyle         |  style of container  |  |   |
-| tabStyle         |   style of tabs,useful when tabs fixed top |  |   |   |
+| tabStyle         |   style of tabs,useful when tabs fixed top |  |   |
 | tabPanelStyle         |  style of TabPanels  |  |   |
 
 tabPanelStyle defaults

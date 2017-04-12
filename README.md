@@ -3,6 +3,8 @@
 
 Tabs component of React,designed for mobile.Support gestures and lots of tabs.
 
+*正式版,已在大型商业项目中使用,有问题提issue,永久更新.*
+
 ## Installation
 
 ```bash

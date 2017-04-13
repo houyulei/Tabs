@@ -36,7 +36,7 @@ address, caption, cite, code, dfn, em, strong, th, var {
 }
 
 ol, ul {
-    list-style:none;
+    list-style: none;
 }
 
 caption, th {
@@ -63,12 +63,14 @@ em {
 .left {
     float: left;
 }
+
 .right {
     float: right;
 }
 
 .myTabs {
     margin: 0 auto;
+    max-width: 480px;
 }
 
 .myTabs .myItem {
